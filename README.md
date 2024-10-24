@@ -60,7 +60,7 @@ docker compose up -d
 ```
 node ace migration:run
 ```
-9.  Appliquez les valeurs initiales de la base de données
+9.  Appliquez les valeurs initiales de la base de données (effectuez la commande deux fois si la première échoue)
 ```
 node ace db:seed
 ```
