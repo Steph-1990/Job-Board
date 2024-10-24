@@ -1,5 +1,5 @@
 ﻿
-# Job Board Epi'D'Mäis
+# Job Board Epi'D'Maïs
 
 ## À propos
 
@@ -48,7 +48,7 @@ npm i
 cp .env.example .env
 ```
 5. Configurez vos variables d'environnement
-6. Ajoutez une clée d'application:
+6. Ajoutez une clé d'application:
 ```
 node ace generate:key
 ```
